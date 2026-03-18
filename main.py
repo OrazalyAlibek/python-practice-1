@@ -26,5 +26,6 @@ print("="*30)
 
 print("Discount applied : ", subtotal > 5000)
 print("Paid more than 3000: ", total > 3000)
+
 print("="*30)
 
